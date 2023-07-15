@@ -1,7 +1,7 @@
 # Mercari_Price_Suggestion_Challenge
 
 ### About Mercari
-Mercari, the community-powered shopping app price suggestion. Product pricing gets even harder at scale, considering just how many products are sold online. Clothing has strong seasonal pricing trends and is heavily influenced by brand names, while electronics have fluctuating prices based on product specs.
+Mercari is Japan’s biggest community-powered shopping app. Product pricing gets even harder at scale, considering just how many products are sold online. Clothing has strong seasonal pricing trends and is heavily influenced by brand names, while electronics have fluctuating prices based on product specs.
 
 
 ### Problem Statement
