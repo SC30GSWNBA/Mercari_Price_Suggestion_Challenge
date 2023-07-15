@@ -8,7 +8,3 @@ Mercari is Japan’s biggest community-powered shopping app. Product pricing get
 
 The objective of this project is to gain insights into the factors influencing the sale price of an item listing based on the information provided by a user. By performing exploratory data analysis (EDA) and conducting statistical and probabilistic analysis on a dataset of item listings and associated user-provided information.
 
-### Objective
-
-Suggest product prices to relailers based on different elements associated with the product
-
